@@ -3,5 +3,6 @@ node_modules
 dist
 dist-ssr
 cache
-.cache.temp
+.cache
+.temp
 *.local
