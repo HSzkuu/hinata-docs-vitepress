@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base : "/hinata-docs-vitepress/",
   title: "HINATA 使用文档",
   description: "泛用多功能街机游戏读卡器",
   themeConfig: {
