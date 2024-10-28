@@ -11,6 +11,9 @@ hero:
       text: 快速开始
       link: /quickstart
     - theme: brand
+      text: 视频说明书
+      link: https://www.bilibili.com/video/BV1VQCUYyEGA/      
+    - theme: alt
       text: 介绍视频
       link: https://www.bilibili.com/video/BV1Gi421i7ej/
     - theme: alt

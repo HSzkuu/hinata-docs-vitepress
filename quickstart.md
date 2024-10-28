@@ -1,7 +1,5 @@
 # 快速开始
 
-**视频版说明书**：[点我](https://www.bilibili.com/video/BV1VQCUYyEGA/)
-
 ## 开箱
 默认情况下标准版用户可以收到：
 * **HINATA** * 1
