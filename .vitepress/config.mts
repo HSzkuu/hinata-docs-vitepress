@@ -11,6 +11,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
     ],
+    
+    search: {
+      provider: 'local'
+    },
 
     sidebar: [
       {
