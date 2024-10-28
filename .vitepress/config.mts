@@ -6,7 +6,7 @@ export default defineConfig({
   description: "泛用多功能街机游戏读卡器",
   head: [
     // 添加图标
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/assets/icn/favicon_32.ico' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
